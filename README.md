@@ -19,11 +19,11 @@ python3 custom_tag.py [-t|-d] [List of Entities] (Optional) [TagList] (Optional)
 **TagList** : A List of Tags to apply. i.e. '[{"key" : "cheese", "value" : "Swiss" }]'
 
 # Configuration
-**controllerurl** : URL of the AppDynamics Controller
+**controllerurl**  : URL of the AppDynamics Controller
 
-**accountname**   : Account Name of the License
+**accountname**    : Account Name of the License
 
-**apiclientname**=: Name of the Api Client
+**apiclientname**  : Name of the Api Client
 
-**apisecret**     : Secret to get the Authorization Token
+**apisecret**      : Secret to get the Authorization Token
 
